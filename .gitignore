@@ -2,3 +2,5 @@ node_modules
 dictionary.json
 populated_dictionary.json
 /coverage
+*.iml
+.idea/
